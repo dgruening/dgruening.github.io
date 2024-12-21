@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Test
+title: David Grüning
 
 # Name pronunciation (optional)
-name_pronunciation: Test
+name_pronunciation: David
 
 # Full name (for SEO)
-first_name: Test
-last_name: Test
+first_name: David
+last_name: Grüning
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Test
+role: Scientific Director
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Test
+  - name: Max-Planck Institute for Human Development
     url: https://openai.com/
 
 # Social network links
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Test
-  - Test
-  - Test
+  - Digitial behavioral sciences
+  - Digital mental health (of adolescents)
+  - Intervention development
 
 education:
   - area: PhD Artificial Intelligence
