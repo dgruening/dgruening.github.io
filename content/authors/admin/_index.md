@@ -3,7 +3,7 @@
 title: David Grüning
 
 # Name pronunciation (optional)
-name_pronunciation: David
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: David
