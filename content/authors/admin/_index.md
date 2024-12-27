@@ -20,31 +20,33 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Scientific Director
+role: Scientific Director and postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Max-Planck Institute for Human Development
+    url: https://www.mpib-berlin.mpg.de/en
+- name: Yale University
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-Test
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:david.gruening@psychologie.uni-heidelberg.de'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/GruningJ
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/dgruning.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/dgruening
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/david-gr%C3%BCning-88071825a/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=a2QfCl4AAAAJ&hl=de&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9274-5477
 
 interests:
   - Digitial behavioral sciences
