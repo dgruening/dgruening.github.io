@@ -56,32 +56,30 @@ interests:
 
 education:
   - area: PhD Digital Behavioral Sciences
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Heidelberg (University of excellence)
+    date_start: 2022-11-01
+    date_end: 2025-02-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      App-based digital intervention development.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Adaptive Cognition and Organizational Behavior (OBAC)
+    institution: University of Heidelberg (University of excellence)
+    date_start: 2020-11-01
+    date_end: 2022-11-01
     summary: |
-      GPA: 3.8/4.0
+      Grade: 1.1 (First Honors)
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Psychology
+    institution: University of Mannheim
+    date_start: 2016-11-01
+    date_end: 2020-11-01
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
