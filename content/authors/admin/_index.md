@@ -33,7 +33,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at
+  - icon: envelope
     url: 'mailto:david.gruening@psychologie.uni-heidelberg.de'
     label: E-mail Me
   - icon: brands/x
