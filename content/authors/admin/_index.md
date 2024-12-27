@@ -20,14 +20,22 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Scientific Director and postdoc
+role: Scientific Director, and Science Board Chair, and Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Max-Planck Institute for Human Development
     url: https://www.mpib-berlin.mpg.de/en
-  - name: Yale University
-    url: https://www.yale.edu/
+  - name: one sec
+    url: one-sec.app
+  - name: Structured
+    url: https://structured.app/#video-spacer
+  - name: RoutineFlow
+    url: https://routineflow.app/
+  - name: StudySnacks
+    url: https://studysnacks.app/
+  - name: Prosocial Design Network
+    url: https://www.prosocialdesign.org/
 
 
 # Social network links
@@ -85,8 +93,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Scientific Director
+    company_name: one sec
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -96,8 +104,41 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Research Lead
+    company_name: Structured
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    position: Research Lead
+    company_name: Structured
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Scientific Director
+    company_name: StudySnacks
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Scientific Director
+    company_name: RoutineFlow
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -184,4 +225,4 @@ awards:
 
 ## About Me
 
-Test.
+I'm very much into interdisciplinary approaches to science, especially when it comes to complex problems like the internet.
