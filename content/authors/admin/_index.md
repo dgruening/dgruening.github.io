@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc<sup>1</sup>, Scientific Director<sup>2-5</sup>, and Science Board Chair<sup>6</sup>
+role: Postdoc<sup>1</sup> - Scientific Director<sup>2-5</sup> - Science Board Chair<sup>6</sup>
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
