@@ -26,13 +26,14 @@ role: Scientific Director and postdoc
 organizations:
   - name: Max-Planck Institute for Human Development
     url: https://www.mpib-berlin.mpg.de/en
-- name: Yale University
-    url: https://openai.com/
+  - name: Yale University
+    url: https://www.yale.edu/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-Test
+  - icon: at
     url: 'mailto:david.gruening@psychologie.uni-heidelberg.de'
     label: E-mail Me
   - icon: brands/x
