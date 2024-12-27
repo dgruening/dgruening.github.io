@@ -147,10 +147,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
