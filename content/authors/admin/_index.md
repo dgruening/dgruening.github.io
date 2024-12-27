@@ -37,7 +37,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/GruningJ
-  - icon: brands/bluesky
+  - icon: brands/instagram
     url: https://bsky.app/profile/dgruning.bsky.social
   - icon: brands/github
     url: https://github.com/dgruening
@@ -54,7 +54,7 @@ interests:
   - Intervention development
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Digital Behavioral Sciences
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
