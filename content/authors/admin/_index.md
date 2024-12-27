@@ -20,21 +20,21 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Scientific Director, and Science Board Chair, and Postdoc
+role: Scientific Director<sup>2, 3, 4, 5</sup>, Science Board Chair<sup>6</sup>, and Postdoc<sup>1</sup>
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Max-Planck Institute for Human Development
+  - name: Max-Planck Institute for Human Development<sup>1</sup>
     url: https://www.mpib-berlin.mpg.de/en
-  - name: one sec
-    url: one-sec.app
-  - name: Structured
+  - name: one sec<sup>2</sup>
+    url: https://one-sec.app
+  - name: Structured<sup>3</sup>
     url: https://structured.app/#video-spacer
-  - name: RoutineFlow
+  - name: RoutineFlow<sup>4</sup>
     url: https://routineflow.app/
-  - name: StudySnacks
+  - name: StudySnacks<sup>5</sup>
     url: https://studysnacks.app/
-  - name: Prosocial Design Network
+  - name: Prosocial Design Network<sup>6</sup>
     url: https://www.prosocialdesign.org/
 
 
