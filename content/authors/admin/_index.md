@@ -36,6 +36,10 @@ organizations:
     url: https://studysnacks.app/
   - name: Prosocial Design Network⁶
     url: https://www.prosocialdesign.org/
+  - name: everyday⁷
+    url: https://everyday.app/
+  - name: HiPeople⁸
+    url: https://www.hipeople.io/
 
 
 # Social network links
