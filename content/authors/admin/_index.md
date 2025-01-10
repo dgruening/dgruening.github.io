@@ -20,12 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc<sup>1</sup> - Scientific Director<sup>2-5</sup> - Science Board Chair<sup>6</sup>
+role: Postdoc<sup>1,2</sup> - Lead Scientist<sup>3-6</sup> - Science Board Chair<sup>6</sup>
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Max-Planck Institute for Human Development¹
     url: https://www.mpib-berlin.mpg.de/en
+  - name: Cambridge University²
+    url: 
   - name: one sec²
     url: https://one-sec.app
   - name: Structured³
